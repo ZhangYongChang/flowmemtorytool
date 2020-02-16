@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import {FcsGateTabsComponent} from './components/fcs-gate-tabs.component';
-import {SpecimenInputComponent} from './components/specimen-input.component';
-import {ReportGenerateComponent} from './components/report-generate.component';
-import {UploadSpecimenFileListComponent} from './components/upload-specimen-file-list.component';
+import {FcsGateTabsComponent} from '../components/fcs-gate-tabs.component';
+import {SpecimenInputComponent} from '../components/specimen-input.component';
+import {ReportGenerateComponent} from '../components/report-generate.component';
+import {UploadSpecimenFileListComponent} from '../components/upload-specimen-file-list.component';
 
 
 const routes: Routes = [
